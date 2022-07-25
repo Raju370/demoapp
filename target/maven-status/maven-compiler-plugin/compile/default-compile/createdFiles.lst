@@ -1,0 +1,10 @@
+com\test\domain\Employee$EmployeeBuilder.class
+com\test\domain\Faculty.class
+com\test\domain\Doctor.class
+com\test\repository\FacultyRespository.class
+com\test\domain\Employee.class
+com\test\main\SampleApplication.class
+com\test\repository\EmployeeRepository.class
+com\test\controller\EmployeeController.class
+com\test\service\EmployeeService.class
+com\test\domain\Department.class
